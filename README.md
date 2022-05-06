@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @eirik211
-- 👀 Read my bio for further information :)
+
+- Code corrections/suggestions are always welcome :)
+
+- 👀 Read my bio for further information 
 
 <!---
 eirik211/eirik211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
